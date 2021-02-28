@@ -1,0 +1,589 @@
+contig	snpPosition	Type	Annotation	geneID	referenceCodon	modifiedCodon	referenceAA	modifiedAA
+Contig_1	17968	Intergenic	-	-	-	-	-	-
+Contig_1	18062	Intergenic	-	-	-	-	-	-
+Contig_1	18089	Intergenic	-	-	-	-	-	-
+Contig_1	18109	Intergenic	-	-	-	-	-	-
+Contig_1	18126	Intergenic	-	-	-	-	-	-
+Contig_1	18206	Intergenic	-	-	-	-	-	-
+Contig_1	18263	Intergenic	-	-	-	-	-	-
+Contig_1	18402	Intergenic	-	-	-	-	-	-
+Contig_1	18486	Synonymous mutation	Uncharacterized protein 	PSPPH_A0021	CCA	CCA	P	P
+Contig_1	18657	Non-Synonymous mutation	Uncharacterized protein 	PSPPH_A0021	CCT	TCT	P	S
+Contig_1	18681	Non-Synonymous mutation	Uncharacterized protein 	PSPPH_A0021	TGA	CGA	*	R
+Contig_1	18886	Non-Synonymous mutation	Uncharacterized protein 	PSPPH_A0022	TGC	AGC	C	S
+Contig_1	19069	Non-Synonymous mutation	Uncharacterized protein 	PSPPH_A0022	GGG	CGG	G	R
+Contig_1	8333	Synonymous mutation	Type III effector HopD1 	PSPPH_A0010	CGC	CGC	R	R
+Contig_1	97404	Synonymous mutation	Syringolide biosynthetic protein AvrD1 	PSPPH_A0113	GAG	GAG	E	E
+Contig_2	1002089	Synonymous mutation	Tellurium resistance protein, putative 	PSPPH_0839				
+Contig_2	1005908	Non-Synonymous mutation	Uncharacterized protein 	PSPPH_0842	CGA	TGA	R	*
+Contig_2	1009009	Synonymous mutation	TatD family hydrolase 	PSPPH_0845				
+Contig_2	1012709	Synonymous mutation	Phosphoenolpyruvate-protein phosphotransferase,EI/HPr/EIIA components 	PSPPH_0847	GCT	GCT	A	A
+Contig_2	1025303	Synonymous mutation	Sigma-54 dependent DNA-binding response regulator 	PSPPH_0857				
+Contig_2	1040854	Synonymous mutation	Uncharacterized protein 	PSPPH_0869	TCA	TCA	S	S
+Contig_2	1105666	Synonymous mutation	Aldose 1-epimerase family protein 	PSPPH_0931				
+Contig_2	1117979	Intergenic	-	-	-	-	-	-
+Contig_2	1125180	Synonymous mutation	Uncharacterized protein 	PSPPH_0947				
+Contig_2	113510	Synonymous mutation	ParB family protein 	PSPPH_0101	GCT	GCT	A	A
+Contig_2	1163370	Synonymous mutation	Glycosyl transferase, group 2 family protein 	PSPPH_0975				
+Contig_2	1163910	Synonymous mutation	Glycosyl transferase, group 2 family protein 	PSPPH_0975				
+Contig_2	1166376	Synonymous mutation	Glycosyl transferase, group 2 family protein 	PSPPH_0977				
+Contig_2	1183503	Synonymous mutation	Ribosome-binding ATPase YchF 	PSPPH_0988				
+Contig_2	1201917	Synonymous mutation	Deoxyribodipyrimidine photolyase 	PSPPH_1010				
+Contig_2	1216873	Synonymous mutation	Uncharacterized protein 	PSPPH_1026				
+Contig_2	1232909	Intergenic	-	-	-	-	-	-
+Contig_2	1237196	Synonymous mutation	FMN reductase (NADH) RutF 	PSPPH_1044				
+Contig_2	1240968	Synonymous mutation	Transcriptional regulator, TetR family 	PSPPH_1049	CAC	CAC	H	H
+Contig_2	1253755	Synonymous mutation	Glycosyl transferase, group 1 family protein 	PSPPH_1061				
+Contig_2	1270677	Synonymous mutation	Uncharacterized protein 	PSPPH_1080				
+Contig_2	1272848	Synonymous mutation	Bacteriophage N4 adsorption protein B 	PSPPH_1081				
+Contig_2	1278355	Synonymous mutation	PsiE family protein 	PSPPH_1085	GGG	GGG	G	G
+Contig_2	1323626	Non-Synonymous mutation	Cyclic pyranopterin monophosphate synthase accessory protein 	PSPPH_1122	TGA	CGA	*	R
+Contig_2	1355237	Synonymous mutation	Valine--tRNA ligase 	PSPPH_1153				
+Contig_2	1398081	Non-Synonymous mutation	6-phosphogluconolactonase 	PSPPH_1189	CAC	TAC	H	Y
+Contig_2	1413966	Intergenic	-	-	-	-	-	-
+Contig_2	1460509	Synonymous mutation	Lipase 	PSPPH_1254				
+Contig_2	1474762	Synonymous mutation	Type III chaperone protein ShcM 	PSPPH_1265	ACG	ACG	T	T
+Contig_2	1476664	Intergenic	-	-	-	-	-	-
+Contig_2	1494439	Synonymous mutation	Type III negative regulator of hrp expression HrpV 	PSPPH_1281	CCA	CCA	P	P
+Contig_2	1508902	Synonymous mutation	Type III effector HopX1 	PSPPH_1296	ACT	ACT	T	T
+Contig_2	1509296	Synonymous mutation	Type III effector HopX1 	PSPPH_1296	CGC	CGC	R	R
+Contig_2	1509622	Synonymous mutation	Type III effector HopX1 	PSPPH_1296	TGG	TGG	W	W
+Contig_2	152972	Synonymous mutation	ATP-dependent Clp protease ATP-binding subunit 	PSPPH_0129				
+Contig_2	1567480	Synonymous mutation	Major facilitator family transporter 	PSPPH_1350				
+Contig_2	15749	Synonymous mutation	Glycine--tRNA ligase beta subunit 	PSPPH_0011				
+Contig_2	1606297	Synonymous mutation	Helicase domain protein 	PSPPH_1383				
+Contig_2	1616758	Synonymous mutation	Penicillin amidase family protein 	PSPPH_1391				
+Contig_2	1624938	Synonymous mutation	Uncharacterized protein 	PSPPH_1400				
+Contig_2	1633162	Synonymous mutation	OmpA family protein 	PSPPH_1408	GTT	GTT	V	V
+Contig_2	1635745	Synonymous mutation	Uncharacterized protein 	PSPPH_1411				
+Contig_2	1647194	Synonymous mutation	Major facilitator family transporter 	PSPPH_1420	GAA	GAA	E	E
+Contig_2	1659313	Synonymous mutation	ATP-dependent helicase HrpA 	PSPPH_1428	GAC	GAC	D	D
+Contig_2	1694446	Synonymous mutation	Uncharacterized protein 	PSPPH_1452				
+Contig_2	1725365	Intergenic	-	-	-	-	-	-
+Contig_2	1744233	Synonymous mutation	Oxidoreductase, short chain dehydrogenase/reductase family 	PSPPH_1502	GCT	GCT	A	A
+Contig_2	1780141	Synonymous mutation	Uncharacterized protein 	PSPPH_1525				
+Contig_2	1839235	Synonymous mutation	EAL domain/GGDEF domain protein 	PSPPH_1586				
+Contig_2	184730	Intergenic	-	-	-	-	-	-
+Contig_2	186254	Synonymous mutation	Stability cassette protein, putative 	PSPPH_0159	CTA	CTA	L	L
+Contig_2	1896288	Synonymous mutation	Ribonuclease E 	PSPPH_1632				
+Contig_2	190285	Synonymous mutation	Uncharacterized protein 	PSPPH_0165	TTT	TTT	F	F
+Contig_2	1911445	Intergenic	-	-	-	-	-	-
+Contig_2	1937743	Non-Synonymous mutation	Major facilitator family transporter 	PSPPH_1674	CAC	TAC	H	Y
+Contig_2	1942082	Synonymous mutation	Cysteine--tRNA ligase 	PSPPH_1679	GGC	GGC	G	G
+Contig_2	1985368	Intergenic	-	-	-	-	-	-
+Contig_2	2001847	Synonymous mutation	Methyl-accepting chemotaxis protein 	PSPPH_1727				
+Contig_2	2034471	Synonymous mutation	Non-ribosomal peptide synthetase 	PSPPH_1749	TCG	TCG	S	S
+Contig_2	2035169	Non-Synonymous mutation	Non-ribosomal peptide synthetase 	PSPPH_1749	GAA	CAA	E	Q
+Contig_2	2071065	Synonymous mutation	Guanine deaminase 	PSPPH_1772				
+Contig_2	2078173	Non-Synonymous mutation	Chromosome partition protein Smc 	PSPPH_1777	GAC	AAC	D	N
+Contig_2	2079817	Non-Synonymous mutation	Chromosome partition protein Smc 	PSPPH_1777	CCT	ACT	P	T
+Contig_2	2090940	Synonymous mutation	DNA polymerase III, subunits gamma and tau 	PSPPH_1785	CCG	CCG	P	P
+Contig_2	2110181	Synonymous mutation	Smr domain protein 	PSPPH_1806				
+Contig_2	2122350	Synonymous mutation	GufA protein 	PSPPH_1822				
+Contig_2	2128135	Intergenic	-	-	-	-	-	-
+Contig_2	2128951	Non-Synonymous mutation	DUF404 	PSPPH_1828	TCT	GCT	S	A
+Contig_2	220105	Intergenic	-	-	-	-	-	-
+Contig_2	2227435	Synonymous mutation	Pyoverdine chromophore synthetase 	PSPPH_1911	ACG	ACG	T	T
+Contig_2	2247190	Synonymous mutation	Pyoverdine sidechain peptide synthetase II, D-Asp-L-Thr component 	PSPPH_1924	TCA	TCA	S	S
+Contig_2	2260404	Non-Synonymous mutation	Pyoverdine sidechain peptide synthetase IV, D-Asp-L-Ser component 	PSPPH_1926	ACA	GCA	T	A
+Contig_2	2263642	Synonymous mutation	Pyoverdine sidechain peptide synthetase IV, D-Asp-L-Ser component 	PSPPH_1926	CCG	CCG	P	P
+Contig_2	2295639	Synonymous mutation	Sensory box/GGDEF domain/EAL domain protein 	PSPPH_1950				
+Contig_2	2319871	Synonymous mutation	Uncharacterized protein 	PSPPH_1972	AAG	AAG	K	K
+Contig_2	2320017	Synonymous mutation	Uncharacterized protein 	PSPPH_1972	CTT	CTT	L	L
+Contig_2	2335605	Intergenic	-	-	-	-	-	-
+Contig_2	2360043	Synonymous mutation	Uncharacterized protein 	PSPPH_2009	AAG	AAG	K	K
+Contig_2	2379037	Intergenic	-	-	-	-	-	-
+Contig_2	2426013	Synonymous mutation	Nitrate reductase 	PSPPH_2070				
+Contig_2	2458699	Synonymous mutation	3-carboxy-cis,cis-muconate cycloisomerase 	PSPPH_2099	GTC	GTC	V	V
+Contig_2	2505343	Intergenic	-	-	-	-	-	-
+Contig_2	2507424	Synonymous mutation	Conserved domain protein 	PSPPH_2152	CCA	CCA	P	P
+Contig_2	2521600	Synonymous mutation	Bacterial luciferase family protein 	PSPPH_2166				
+Contig_2	2534188	Synonymous mutation	General secretion pathway protein GspD 	PSPPH_2181	CCC	CCC	P	P
+Contig_2	2537963	Intergenic	-	-	-	-	-	-
+Contig_2	2542849	Synonymous mutation	Metalloprotease, putative 	PSPPH_2186	ACC	ACC	T	T
+Contig_2	2550066	Synonymous mutation	Transcriptional regulator, Cro/CI family 	PSPPH_2194				
+Contig_2	2554328	Intergenic	-	-	-	-	-	-
+Contig_2	2574590	Intergenic	-	-	-	-	-	-
+Contig_2	2597772	Non-Synonymous mutation	Uncharacterized protein 	PSPPH_2238	CCA	TCA	P	S
+Contig_2	2603566	Synonymous mutation	Uncharacterized protein 	PSPPH_2244				
+Contig_2	2617669	Intergenic	-	-	-	-	-	-
+Contig_2	2626803	Synonymous mutation	Cointegrate resolution protein S 	PSPPH_2264	TGA	TGA	*	*
+Contig_2	2639569	Intergenic	-	-	-	-	-	-
+Contig_2	2645263	Synonymous mutation	ABC transporter protein, ATP binding component 	PSPPH_2279	CGG	CGG	R	R
+Contig_2	2649432	Synonymous mutation	Rhs family protein 	PSPPH_2282	ATC	ATC	I	I
+Contig_2	2703638	Synonymous mutation	LuxR response regulator receiver 	PSPPH_2328	GGA	GGA	G	G
+Contig_2	2705358	Synonymous mutation	UvrABC system protein C 	PSPPH_2329	TGC	TGC	C	C
+Contig_2	2723705	Intergenic	-	-	-	-	-	-
+Contig_2	2734668	Synonymous mutation	Papain cysteine protease family protein 	PSPPH_2358				
+Contig_2	2750782	Non-Synonymous mutation	Branched-chain amino acid ABC transporter, ATP-binding protein 	PSPPH_2372	CCC	ACC	P	T
+Contig_2	2753769	Non-Synonymous mutation	Monooxygenase, NtaA/SnaA/SoxA family 	PSPPH_2375	CCA	ACA	P	T
+Contig_2	2767770	Intergenic	-	-	-	-	-	-
+Contig_2	2777100	Synonymous mutation	Uncharacterized protein 	PSPPH_2399	CGA	AGA	R	R
+Contig_2	2786430	Synonymous mutation	Site-specific recombinase, phage integrase family 	PSPPH_2410	GTT	GTT	V	V
+Contig_2	2796251	Synonymous mutation	Uncharacterized protein 	PSPPH_2417	TAT	TAT	Y	Y
+Contig_2	2809719	Non-Synonymous mutation	Uncharacterized protein 	PSPPH_2429	CTG	ATG	L	M
+Contig_2	2837772	Synonymous mutation	Nitrogen assimilation regulatory protein Nac, putative 	PSPPH_2454	CGG	AGG	R	R
+Contig_2	2856374	Intergenic	-	-	-	-	-	-
+Contig_2	2904779	Intergenic	-	-	-	-	-	-
+Contig_2	2914039	Synonymous mutation	Type III secretion component, putative 	PSPPH_2528	GCC	GCC	A	A
+Contig_2	2921427	Synonymous mutation	Type III secretion component, putative 	PSPPH_2538	GCA	GCA	A	A
+Contig_2	2925856	Synonymous mutation	Uncharacterized protein 	PSPPH_2540	ATC	ATC	I	I
+Contig_2	2936866	Intergenic	-	-	-	-	-	-
+Contig_2	2938520	Synonymous mutation	Oxidoreductase, putative 	PSPPH_2547	CAA	CAA	Q	Q
+Contig_2	2945509	Synonymous mutation	Transcriptional regulator, LysR family 	PSPPH_2553	ACC	ACC	T	T
+Contig_2	2945810	Non-Synonymous mutation	Transcriptional regulator, LysR family 	PSPPH_2553	TCA	ACA	S	T
+Contig_2	2951227	Intergenic	-	-	-	-	-	-
+Contig_2	2963098	Synonymous mutation	Insecticidal toxin complex protein, putative 	PSPPH_2571				
+Contig_2	2971410	Synonymous mutation	UPF0502 protein PSPPH_2577 	PSPPH_2577				
+Contig_2	3001891	Synonymous mutation	Sensor histidine kinase/response regulator 	PSPPH_2604	TAC	TAC	Y	Y
+Contig_2	3004344	Synonymous mutation	Sensory box sensor histidine kinase/response regulator 	PSPPH_2606				
+Contig_2	3009118	Synonymous mutation	Membrane protein, putative 	PSPPH_2610				
+Contig_2	3011584	Synonymous mutation	Oxidoreductase, short-chain dehydrogenase/reductase family 	PSPPH_2612				
+Contig_2	3012242	Synonymous mutation	Phosphotransferase enzyme family 	PSPPH_2613				
+Contig_2	3013068	Intergenic	-	-	-	-	-	-
+Contig_2	3028228	Non-Synonymous mutation	Uncharacterized protein 	PSPPH_2624	AAG	TAG	K	*
+Contig_2	3029182	Intergenic	-	-	-	-	-	-
+Contig_2	3035000	Synonymous mutation	Hydroxymethylglutaryl-CoA lyase 	PSPPH_2629				
+Contig_2	3037846	Synonymous mutation	Acyl-CoA dehydrogenase family protein 	PSPPH_2632	TCA	TCA	S	S
+Contig_2	3038992	Synonymous mutation	OmpA family protein 	PSPPH_2633				
+Contig_2	3039597	Synonymous mutation	OmpA family protein 	PSPPH_2633				
+Contig_2	3042851	Synonymous mutation	Outer membrane protein, OMP85 family 	PSPPH_2636	GCG	GCG	A	A
+Contig_2	3046507	Synonymous mutation	Uncharacterized protein 	PSPPH_2637	TCA	TCA	S	S
+Contig_2	3050454	Non-Synonymous mutation	Multidrug RND efflux transporter, permease protein MdtB 	PSPPH_2641	TGA	AGA	*	R
+Contig_2	3065581	Synonymous mutation	Trehalose synthase/probable maltokinase 	PSPPH_2647	CGC	CGC	R	R
+Contig_2	3093131	Non-Synonymous mutation	Putrescine ABC transporter, periplasmic putrescine-binding protein 	PSPPH_2671	CAA	AAA	Q	K
+Contig_2	3093378	Synonymous mutation	Putrescine ABC transporter, periplasmic putrescine-binding protein 	PSPPH_2671	CCT	CCT	P	P
+Contig_2	3094764	Synonymous mutation	Binding-protein dependent transport system inner membrane protein 	PSPPH_2673				
+Contig_2	3101503	Non-Synonymous mutation	Error-prone DNA polymerase 	PSPPH_2680	GCG	ACG	A	T
+Contig_2	3134627	Synonymous mutation	Ornithine aminotransferase 	PSPPH_2707	GCC	GCC	A	A
+Contig_2	3135967	Non-Synonymous mutation	Fatty acid desaturase 	PSPPH_2709	GGA	AGA	G	R
+Contig_2	3152481	Intergenic	-	-	-	-	-	-
+Contig_2	3157880	Intergenic	-	-	-	-	-	-
+Contig_2	316501	Synonymous mutation	Sulfate transporter family protein 	PSPPH_0274				
+Contig_2	3169044	Synonymous mutation	Aldolase, putative 	PSPPH_2737	AAC	AAC	N	N
+Contig_2	3227435	Intergenic	-	-	-	-	-	-
+Contig_2	3249194	Non-Synonymous mutation	Bifunctional polymyxin resistance protein ArnA 	PSPPH_2804	TAA	GAA	*	E
+Contig_2	3253679	Non-Synonymous mutation	UDP-glucose 6-dehydrogenase 	PSPPH_2809	CGC	GGC	R	G
+Contig_2	3258643	Intergenic	-	-	-	-	-	-
+Contig_2	3268237	Intergenic	-	-	-	-	-	-
+Contig_2	3286374	Synonymous mutation	Bacterial extracellular solute-binding domain protein 	PSPPH_2839	ACA	ACA	T	T
+Contig_2	3286645	Synonymous mutation	Sodium/hydrogen exchanger family protein 	PSPPH_2840	GGT	GGT	G	G
+Contig_2	3303901	Synonymous mutation	Pyruvate dehydrogenase 	PSPPH_2857				
+Contig_2	3308325	Non-Synonymous mutation	Lipoprotein, putative 	PSPPH_2861	TGG	AGG	W	R
+Contig_2	3327108	Synonymous mutation	Oxidoreductase Tas, aldo/keto reductase family 	PSPPH_2880				
+Contig_2	3327295	Synonymous mutation	Oxidoreductase Tas, aldo/keto reductase family 	PSPPH_2880				
+Contig_2	3328056	Synonymous mutation	ABC transporter, ATP-binding/permease protein 	PSPPH_2881				
+Contig_2	3349809	Non-Synonymous mutation	ABC transporter, ATP-binding/permease protein 	PSPPH_2896	CGT	GGT	R	G
+Contig_2	3355717	Synonymous mutation	Yersiniabactin non-ribosomal peptide synthetase 	PSPPH_2897	GTT	GTT	V	V
+Contig_2	3416944	Intergenic	-	-	-	-	-	-
+Contig_2	3430124	Synonymous mutation	Hydrolase, carbon-nitrogen family 	PSPPH_2956				
+Contig_2	3473629	Synonymous mutation	TonB-dependent receptor, putative 	PSPPH_2991				
+Contig_2	3489806	Non-Synonymous mutation	Iron compound ABC transporter, periplasmic iron compound-binding protein 	PSPPH_3006	ACA	TCA	T	S
+Contig_2	3500367	Synonymous mutation	Transcriptional regulator, LysR family 	PSPPH_3014	GCA	GCA	A	A
+Contig_2	3511894	Synonymous mutation	Methyl-accepting chemotaxis protein 	PSPPH_3025				
+Contig_2	3527890	Synonymous mutation	TonB-dependent siderophore receptor, putative 	PSPPH_3037				
+Contig_2	3532988	Synonymous mutation	Sensor histidine kinase 	PSPPH_3041	TGC	TGC	C	C
+Contig_2	3542045	Synonymous mutation	Major facilitator family transporter 	PSPPH_3047				
+Contig_2	3547695	Synonymous mutation	Phospholipase/carboxylesterase family protein 	PSPPH_3053				
+Contig_2	3554592	Synonymous mutation	General secretion pathway protein GspI 	PSPPH_3060				
+Contig_2	3615967	Synonymous mutation	NADH-quinone oxidoreductase subunit H 	PSPPH_3115	TGC	TGC	C	C
+Contig_2	3622593	Synonymous mutation	NADH-quinone oxidoreductase subunit N 	PSPPH_3121	CGG	CGG	R	R
+Contig_2	3629148	Synonymous mutation	Sensor histidine kinase 	PSPPH_3126				
+Contig_2	3643267	Non-Synonymous mutation	Aminotransferase, DegT/DnrJ/EryC1/StrS family 	PSPPH_3140	TGG	CGG	W	R
+Contig_2	3645819	Non-Synonymous mutation	Glycosyl transferase, group 2 family protein 	PSPPH_3142	GAT	CAT	D	H
+Contig_2	3715928	Synonymous mutation	Uncharacterized protein 	PSPPH_3206				
+Contig_2	3722410	Synonymous mutation	Fatty acid oxidation complex subunit alpha 	PSPPH_3210				
+Contig_2	374631	Non-Synonymous mutation	RND efflux transporter, hydrophobe/amphiphile efflux-1 (HAE1) family 	PSPPH_0329	CCA	TCA	P	S
+Contig_2	3752336	Synonymous mutation	Uncharacterized protein 	PSPPH_3236	ATT	ATT	I	I
+Contig_2	3887773	Synonymous mutation	Chemotaxis sensor histidine kinase CheA 	PSPPH_3360				
+Contig_2	3907915	Synonymous mutation	Flagellum-specific ATP synthase FliI 	PSPPH_3380				
+Contig_2	3938374	Synonymous mutation	Flagellar basal-body protein, putative 	PSPPH_3404				
+Contig_2	3943824	Synonymous mutation	Cyanate hydratase 	PSPPH_3410				
+Contig_2	3949642	Synonymous mutation	Major facilitator family transporter 	PSPPH_3418				
+Contig_2	3971479	Synonymous mutation	Probable sodium/solute symporter PA0287 , putative 	PSPPH_3436	TGG	TGG	W	W
+Contig_2	3999867	Synonymous mutation	L-serine ammonia-lyase 	PSPPH_3461	CGC	CGC	R	R
+Contig_2	4025218	Synonymous mutation	Membrane protein, putative 	PSPPH_3485				
+Contig_2	4036490	Intergenic	-	-	-	-	-	-
+Contig_2	4068139	Synonymous mutation	Acetyl-coenzyme A synthetase 	PSPPH_3528				
+Contig_2	407913	Synonymous mutation	Phosphorylase 	PSPPH_0356				
+Contig_2	4096952	Synonymous mutation	Putative manganese efflux pump MntP 	PSPPH_3559	CCG	CCG	P	P
+Contig_2	4105195	Synonymous mutation	Uncharacterized protein 	PSPPH_3564	CCC	CCC	P	P
+Contig_2	4107554	Synonymous mutation	TPR domain protein 	PSPPH_3567	TGT	TGT	C	C
+Contig_2	4108200	Non-Synonymous mutation	TPR domain protein 	PSPPH_3567	TGG	CGG	W	R
+Contig_2	4118662	Synonymous mutation	Sugar transporter BMEII0354 	PSPPH_3574				
+Contig_2	4125268	Synonymous mutation	Uncharacterized protein 	PSPPH_3580	TTG	TTG	L	L
+Contig_2	4169616	Synonymous mutation	Uncharacterized protein 	PSPPH_3625	CCA	CCA	P	P
+Contig_2	4181816	Synonymous mutation	3-deoxy-7-phosphoheptulonate synthase 	PSPPH_3636	AGA	AGA	R	R
+Contig_2	4214588	Synonymous mutation	DNA gyrase subunit A 	PSPPH_3667				
+Contig_2	4292296	Synonymous mutation	Uncharacterized protein 	PSPPH_3742	TCC	TCC	S	S
+Contig_2	4319486	Synonymous mutation	TolA protein 	PSPPH_3768				
+Contig_2	4327436	Synonymous mutation	Uncharacterized protein 	PSPPH_3777				
+Contig_2	433583	Intergenic	-	-	-	-	-	-
+Contig_2	4362789	Synonymous mutation	Lipoprotein 	PSPPH_3810				
+Contig_2	4365010	Synonymous mutation	tRNA pseudouridine synthase D 	PSPPH_3813				
+Contig_2	4426385	Synonymous mutation	Transcriptional regulator, TetR family 	PSPPH_3872				
+Contig_2	4457867	Non-Synonymous mutation	Glycerol kinase 	PSPPH_3899	CCT	GCT	P	A
+Contig_2	4468725	Synonymous mutation	2-hydroxychromene-2-carboxylate isomerase family protein 	PSPPH_3908				
+Contig_2	4473029	Synonymous mutation	D-alanine--D-alanine ligase 	PSPPH_3913				
+Contig_2	4482381	Non-Synonymous mutation	Uncharacterized protein 	PSPPH_3922	CAT	AAT	H	N
+Contig_2	4485616	Intergenic	-	-	-	-	-	-
+Contig_2	4489899	Synonymous mutation	ABC transporter, binding protein 	PSPPH_3928				
+Contig_2	4505630	Intergenic	-	-	-	-	-	-
+Contig_2	4510658	Synonymous mutation	Ribonuclease 3 	PSPPH_3948				
+Contig_2	4532237	Synonymous mutation	ABC transporter, periplasmic substrate-binding protein 	PSPPH_3971	CGG	CGG	R	R
+Contig_2	4555739	Synonymous mutation	Probable transcriptional regulator, LysR family 	PSPPH_3990	CTT	CTT	L	L
+Contig_2	4560298	Synonymous mutation	Uncharacterized protein 	PSPPH_3995				
+Contig_2	4561963	Non-Synonymous mutation	Unnamed protein product 	PSPPH_3996	CGG	TGG	R	W
+Contig_2	4566160	Non-Synonymous mutation	Beta-glucosidase 	PSPPH_4000	CCT	TCT	P	S
+Contig_2	4596243	Intergenic	-	-	-	-	-	-
+Contig_2	4614799	Synonymous mutation	Oxidoreductase, iron-sulfur-binding 	PSPPH_4040				
+Contig_2	4618190	Synonymous mutation	Insecticidal toxin protein, putative 	PSPPH_4042				
+Contig_2	4664025	Synonymous mutation	Uncharacterized protein 	PSPPH_4081				
+Contig_2	4695372	Synonymous mutation	Lipid II flippase FtsW 	PSPPH_4109				
+Contig_2	4717543	Synonymous mutation	Sulfate adenylyltransferase subunit 1 	PSPPH_4132				
+Contig_2	4731038	Synonymous mutation	Toluene tolerance ABC transporter, ATP-binding protein, putative 	PSPPH_4145				
+Contig_2	47703	Non-Synonymous mutation	ISPsy18, transposase 	PSPPH_0046	CCA	TCA	P	S
+Contig_2	4797227	Intergenic	-	-	-	-	-	-
+Contig_2	4805456	Synonymous mutation	Site-specific recombinase, phage integrase family 	PSPPH_4217	CAA	CAA	Q	Q
+Contig_2	4821001	Intergenic	-	-	-	-	-	-
+Contig_2	4847956	Intergenic	-	-	-	-	-	-
+Contig_2	4887871	Intergenic	-	-	-	-	-	-
+Contig_2	4922052	Synonymous mutation	Pyruvate phosphate dikinase, PEP/pyruvate binding domain protein 	PSPPH_4307				
+Contig_2	4931210	Synonymous mutation	Uncharacterized protein 	PSPPH_4317				
+Contig_2	4932792	Intergenic	-	-	-	-	-	-
+Contig_2	4938063	Synonymous mutation	Uncharacterized protein 	PSPPH_4323				
+Contig_2	495411	Intergenic	-	-	-	-	-	-
+Contig_2	4958652	Non-Synonymous mutation	Ribosomal RNA large subunit methyltransferase G 	PSPPH_4337	CAT	TAT	H	Y
+Contig_2	4962875	Intergenic	-	-	-	-	-	-
+Contig_2	4971940	Intergenic	-	-	-	-	-	-
+Contig_2	4989071	Synonymous mutation	Type III effector HopI1 	PSPPH_4366				
+Contig_2	4998738	Synonymous mutation	Conserved domain protein 	PSPPH_4376				
+Contig_2	5016712	Synonymous mutation	Uncharacterized protein 	PSPPH_4392				
+Contig_2	5018444	Non-Synonymous mutation	Leucine--tRNA ligase 	PSPPH_4394	GCA	ACA	A	T
+Contig_2	5020864	Synonymous mutation	DNA polymerase III, delta subunit 	PSPPH_4396	CCA	CCA	P	P
+Contig_2	5071860	Intergenic	-	-	-	-	-	-
+Contig_2	5078575	Synonymous mutation	MJ0042 family finger-like domain protein 	PSPPH_4446	GGG	GGG	G	G
+Contig_2	5103199	Synonymous mutation	Uncharacterized protein 	PSPPH_4468	GAA	GAA	E	E
+Contig_2	5117176	Synonymous mutation	Sensor histidine kinase 	PSPPH_4481	TAG	TAG	*	*
+Contig_2	5123121	Synonymous mutation	Membrane protein, putative 	PSPPH_4487	TGG	TGG	W	W
+Contig_2	5129103	Non-Synonymous mutation	Bacterioferritin, putative 	PSPPH_4493	GCT	ACT	A	T
+Contig_2	5131880	Intergenic	-	-	-	-	-	-
+Contig_2	5180949	Synonymous mutation	Uncharacterized protein 	PSPPH_4545				
+Contig_2	5187847	Synonymous mutation	Uncharacterized protein 	PSPPH_4549				
+Contig_2	519621	Synonymous mutation	HopAN1 protein 	PSPPH_0456				
+Contig_2	5196840	Synonymous mutation	Major facilitator family transporter 	PSPPH_4557	ACC	ACC	T	T
+Contig_2	5197638	Synonymous mutation	Major facilitator family transporter 	PSPPH_4557	GAC	GAC	D	D
+Contig_2	5215833	Synonymous mutation	30S ribosomal protein S11 	PSPPH_4569				
+Contig_2	5226539	Synonymous mutation	50S ribosomal protein L3 	PSPPH_4592				
+Contig_2	5237512	Synonymous mutation	DNA-directed RNA polymerase subunit beta 	PSPPH_4599				
+Contig_2	5238872	Synonymous mutation	DNA-directed RNA polymerase subunit beta 	PSPPH_4599				
+Contig_2	5241104	Intergenic	-	-	-	-	-	-
+Contig_2	5242684	Synonymous mutation	50S ribosomal protein L11 	PSPPH_4603				
+Contig_2	526500	Synonymous mutation	Oxygen-independent coproporphyrinogen III oxidase, putative 	PSPPH_0462				
+Contig_2	5292266	Synonymous mutation	Uncharacterized protein 	PSPPH_4653	GAA	GAA	E	E
+Contig_2	5295460	Synonymous mutation	Membrane protein, putative 	PSPPH_4658				
+Contig_2	5321772	Synonymous mutation	ATP/GTP-binding protein 	PSPPH_4686	CAA	CAA	Q	Q
+Contig_2	5322027	Synonymous mutation	ATP/GTP-binding protein 	PSPPH_4686	GCT	GCT	A	A
+Contig_2	532479	Synonymous mutation	Twitching motility protein 	PSPPH_0469	CAG	CAG	Q	Q
+Contig_2	5336736	Synonymous mutation	Tryptophan 2-monooxygenase, putative 	PSPPH_4701	GCA	GCA	A	A
+Contig_2	5347040	Synonymous mutation	Uncharacterized protein 	PSPPH_4711				
+Contig_2	5417844	Intergenic	-	-	-	-	-	-
+Contig_2	5454933	Synonymous mutation	Rieske [2Fe-2S] region 	PSPPH_4806	GGT	GGT	G	G
+Contig_2	5465047	Intergenic	-	-	-	-	-	-
+Contig_2	5469898	Synonymous mutation	Phosphoglycerate kinase 	PSPPH_4819				
+Contig_2	5475177	Synonymous mutation	Transcriptional regulator, ArsR family 	PSPPH_4822	CTT	CTT	L	L
+Contig_2	5481595	Synonymous mutation	DNA-binding heavy metal response regulator 	PSPPH_4828				
+Contig_2	5486498	Synonymous mutation	Cation efflux family protein 	PSPPH_4831	GCG	GCG	A	A
+Contig_2	5486941	Synonymous mutation	Cation efflux family protein 	PSPPH_4831	TGC	TGC	C	C
+Contig_2	5491010	Synonymous mutation	Rhs family protein 	PSPPH_4833	GGG	GGG	G	G
+Contig_2	5494024	Non-Synonymous mutation	Rhs family protein 	PSPPH_4834	TGT	AGT	C	S
+Contig_2	5503198	Intergenic	-	-	-	-	-	-
+Contig_2	5527383	Synonymous mutation	Histidine transporter, periplasmic histidine-binding protein 	PSPPH_4861	TCG	TCG	S	S
+Contig_2	5538588	Synonymous mutation	Cadmium-translocating P-type ATPase 	PSPPH_4869				
+Contig_2	5543749	Synonymous mutation	Phosphoenolpyruvate-protein phosphotransferase PtsP 	PSPPH_4874				
+Contig_2	5567010	Synonymous mutation	Putrescine-binding periplasmic protein 	PSPPH_4895				
+Contig_2	5585382	Synonymous mutation	Uncharacterized protein 	PSPPH_4911				
+Contig_2	5588054	Synonymous mutation	2,3-bisphosphoglycerate-independent phosphoglycerate mutase 	PSPPH_4916	TGG	TGG	W	W
+Contig_2	5590558	Synonymous mutation	Peptidase, M23/M37 family 	PSPPH_4917	CGC	CGC	R	R
+Contig_2	5603454	Synonymous mutation	AsmA family superfamily 	PSPPH_4929	TCA	TCA	S	S
+Contig_2	5606161	Synonymous mutation	ISPsy18, transposase 	PSPPH_4933				
+Contig_2	5625480	Synonymous mutation	Prophage PSPPH06, putative tail fiber protein 	PSPPH_4952				
+Contig_2	568569	Non-Synonymous mutation	Uncharacterized protein 	PSPPH_0494	TAT	AAT	Y	N
+Contig_2	5698098	Intergenic	-	-	-	-	-	-
+Contig_2	5701998	Synonymous mutation	Peptide ABC transporter, permease protein 	PSPPH_5031	CGA	AGA	R	R
+Contig_2	5713658	Synonymous mutation	Uncharacterized protein 	PSPPH_5041	TCA	TCA	S	S
+Contig_2	5756866	Intergenic	-	-	-	-	-	-
+Contig_2	5768757	Synonymous mutation	Uncharacterized protein 	PSPPH_5084				
+Contig_2	5784763	Intergenic	-	-	-	-	-	-
+Contig_2	5812775	Synonymous mutation	Phosphate ABC transporter, periplasmic phosphate-binding protein, putative 	PSPPH_5123				
+Contig_2	5824526	Synonymous mutation	L-asparaginase I 	PSPPH_5135	TCC	TCC	S	S
+Contig_2	5826880	Synonymous mutation	YeeE/YedE family protein 	PSPPH_5137				
+Contig_2	5845895	Synonymous mutation	Cobalamin synthesis protein/P47K family protein 	PSPPH_5154				
+Contig_2	5862789	Non-Synonymous mutation	Membrane protein, putative 	PSPPH_5169	CGA	TGA	R	*
+Contig_2	5907796	Synonymous mutation	Glutamine--fructose-6-phosphate aminotransferase [isomerizing] 	PSPPH_5203				
+Contig_2	5926337	Synonymous mutation	Putative membrane protein insertion efficiency factor 	PSPPH_5221				
+Contig_2	608890	Synonymous mutation	Uncharacterized protein 	PSPPH_0518				
+Contig_2	616579	Non-Synonymous mutation	Uncharacterized protein 	PSPPH_0524	TAA	CAA	*	Q
+Contig_2	66323	Synonymous mutation	Uroporphyrin-III C-methyltransferase, putative 	PSPPH_0065				
+Contig_2	668740	Synonymous mutation	ATP phosphoribosyltransferase regulatory subunit 	PSPPH_0569	CGC	CGC	R	R
+Contig_2	699129	Non-Synonymous mutation	High-affinity branched-chain amino acid ABC transporter, permease protein BraD 	PSPPH_0591	GGC	CGC	G	R
+Contig_2	70082	Synonymous mutation	Sensor histidine kinase FimS 	PSPPH_0070				
+Contig_2	702667	Synonymous mutation	High affinity branched-chain amino acid ABC transporter, ATP-binding protein 	PSPPH_0594	CGC	CGC	R	R
+Contig_2	730768	Intergenic	-	-	-	-	-	-
+Contig_2	732366	Intergenic	-	-	-	-	-	-
+Contig_2	754692	Non-Synonymous mutation	Uncharacterized protein 	PSPPH_0637	GAT	AAT	D	N
+Contig_2	764301	Synonymous mutation	Polyamine ABC transporter, permease protein 	PSPPH_0645	AAT	AAT	N	N
+Contig_2	774454	Non-Synonymous mutation	Prophage PSPPH01, putative cellulase 	PSPPH_0655	GAC	AAC	D	N
+Contig_2	778923	Non-Synonymous mutation	Prophage PSPPH01, DNA circulation protein 	PSPPH_0662	GCA	ACA	A	T
+Contig_2	877104	Synonymous mutation	Uncharacterized protein 	PSPPH_0751				
+Contig_2	905435	Intergenic	-	-	-	-	-	-
+Contig_2	906196	Synonymous mutation	Uncharacterized protein 	PSPPH_0772				
+Contig_2	908837	Intergenic	-	-	-	-	-	-
+Contig_2	927190	Intergenic	-	-	-	-	-	-
+Contig_2	945005	Synonymous mutation	Chemotaxis response regulator protein-glutamate methylesterase 1 	PSPPH_0800				
+Contig_2	945582	Synonymous mutation	Chemotaxis response regulator protein-glutamate methylesterase 1 	PSPPH_0800				
+Contig_3	1008	Non-Synonymous mutation	Replicase family family 	PSPPH_B0002	CAA	AAA	Q	K
+Contig_3	1035	Non-Synonymous mutation	Replicase family family 	PSPPH_B0002	TGA	CGA	*	R
+Contig_3	1062	Non-Synonymous mutation	Replicase family family 	PSPPH_B0002	GTT	CTT	V	L
+Contig_3	1134	Non-Synonymous mutation	Replicase family family 	PSPPH_B0002	CAG	TAG	Q	*
+Contig_3	1134	Synonymous mutation	Replicase family family 	PSPPH_B0002	CAG	CAG	Q	Q
+Contig_3	1143	Synonymous mutation	Replicase family family 	PSPPH_B0002	CGT	CGT	R	R
+Contig_3	1224	Non-Synonymous mutation	Replicase family family 	PSPPH_B0002	CGT	AGT	R	S
+Contig_3	1236	Non-Synonymous mutation	Replicase family family 	PSPPH_B0002	TGC	GGC	C	G
+Contig_3	13834	Synonymous mutation	Site-specific recombinase, phage integrase family 	PSPPH_B0017				
+Contig_3	13906	Synonymous mutation	Site-specific recombinase, phage integrase family 	PSPPH_B0017				
+Contig_3	13950	Synonymous mutation	Site-specific recombinase, phage integrase family 	PSPPH_B0017				
+Contig_3	1398	Synonymous mutation	Replicase family family 	PSPPH_B0002	TGT	TGT	C	C
+Contig_3	1453	Synonymous mutation	Replicase family family 	PSPPH_B0002	CAC	CAC	H	H
+Contig_3	1478	Synonymous mutation	Replicase family family 	PSPPH_B0002	CTT	CTT	L	L
+Contig_3	1525	Synonymous mutation	Replicase family family 	PSPPH_B0002	CCG	CCG	P	P
+Contig_3	1662	Intergenic	-	-	-	-	-	-
+Contig_3	1678	Intergenic	-	-	-	-	-	-
+Contig_3	1719	Intergenic	-	-	-	-	-	-
+Contig_3	1755	Intergenic	-	-	-	-	-	-
+Contig_3	18684	Synonymous mutation	Transcriptional regulator, PbsX family 	PSPPH_B0022				
+Contig_3	18955	Synonymous mutation	Transcriptional regulator, PbsX family 	PSPPH_B0022				
+Contig_3	19207	Synonymous mutation	Transcriptional regulator 	PSPPH_B0023	CAA	CAA	Q	Q
+Contig_3	19250	Non-Synonymous mutation	Transcriptional regulator 	PSPPH_B0023	AGG	GGG	R	G
+Contig_3	19268	Non-Synonymous mutation	Transcriptional regulator 	PSPPH_B0023	CAC	GAC	H	D
+Contig_3	19307	Non-Synonymous mutation	Transcriptional regulator 	PSPPH_B0023	CGT	GGT	R	G
+Contig_3	19349	Synonymous mutation	Transcriptional regulator 	PSPPH_B0023	CGA	CGA	R	R
+Contig_3	19404	Synonymous mutation	Transcriptional regulator 	PSPPH_B0023	GGC	GGC	G	G
+Contig_3	19434	Synonymous mutation	Transcriptional regulator 	PSPPH_B0023	TTT	TTT	F	F
+Contig_3	19709	Non-Synonymous mutation	Transcriptional regulator 	PSPPH_B0023	TAT	GAT	Y	D
+Contig_3	19733	Non-Synonymous mutation	Transcriptional regulator 	PSPPH_B0023	TGT	CGT	C	R
+Contig_3	1975	Non-Synonymous mutation	Ultraviolet light resistance protein A 	PSPPH_B0003	CAT	GAT	H	D
+Contig_3	19761	Non-Synonymous mutation	Uncharacterized protein 	PSPPH_B0024	TAA	GAA	*	E
+Contig_3	19817	Synonymous mutation	Uncharacterized protein 	PSPPH_B0024	AGG	AGG	R	R
+Contig_3	19977	Synonymous mutation	Uncharacterized protein 	PSPPH_B0024	CAA	CAA	Q	Q
+Contig_3	20118	Non-Synonymous mutation	Conjugal transfer protein 	PSPPH_B0025	GTG	ATG	V	M
+Contig_3	2014	Non-Synonymous mutation	Ultraviolet light resistance protein A 	PSPPH_B0003	TCT	ACT	S	T
+Contig_3	20394	Non-Synonymous mutation	Conjugal transfer protein 	PSPPH_B0025	GGT	AGT	G	S
+Contig_3	20523	Non-Synonymous mutation	Conjugal transfer protein 	PSPPH_B0025	ACA	CCA	T	P
+Contig_3	20739	Non-Synonymous mutation	Conjugal transfer protein 	PSPPH_B0025	TCG	CCG	S	P
+Contig_3	20772	Non-Synonymous mutation	Conjugal transfer protein 	PSPPH_B0025	AGG	GGG	R	G
+Contig_3	20821	Synonymous mutation	Conjugal transfer protein 	PSPPH_B0026	CCG	CCG	P	P
+Contig_3	20945	Synonymous mutation	Conjugal transfer protein 	PSPPH_B0026	AGA	AGA	R	R
+Contig_3	21098	Non-Synonymous mutation	Conjugal transfer protein 	PSPPH_B0026	TGG	CGG	W	R
+Contig_3	21116	Non-Synonymous mutation	Conjugal transfer protein 	PSPPH_B0026	TGA	CGA	*	R
+Contig_3	21161	Non-Synonymous mutation	Conjugal transfer protein 	PSPPH_B0027	CCC	TCC	P	S
+Contig_3	21362	Synonymous mutation	Conjugal transfer protein 	PSPPH_B0027	GCC	GCC	A	A
+Contig_3	21567	Synonymous mutation	Conjugal transfer protein 	PSPPH_B0027	GAC	GAC	D	D
+Contig_3	21567	Non-Synonymous mutation	Conjugal transfer protein 	PSPPH_B0028	TGG	AGG	W	R
+Contig_3	21801	Non-Synonymous mutation	Conjugal transfer protein 	PSPPH_B0028	CCG	GCG	P	A
+Contig_3	21822	Non-Synonymous mutation	Conjugal transfer protein 	PSPPH_B0028	CCA	ACA	P	T
+Contig_3	21867	Non-Synonymous mutation	Conjugal transfer protein 	PSPPH_B0028	ACA	TCA	T	S
+Contig_3	2190	Synonymous mutation	RulB protein 	PSPPH_B0004	CCC	CCC	P	P
+Contig_3	22054	Synonymous mutation	Conjugal transfer protein 	PSPPH_B0028	TTG	TTG	L	L
+Contig_3	2210	Non-Synonymous mutation	RulB protein 	PSPPH_B0004	GTG	ATG	V	M
+Contig_3	22206	Non-Synonymous mutation	Conjugal transfer protein 	PSPPH_B0028	CGT	GGT	R	G
+Contig_3	22242	Synonymous mutation	Conjugal transfer protein 	PSPPH_B0028	CCA	CCA	P	P
+Contig_3	22365	Non-Synonymous mutation	Conjugal transfer protein 	PSPPH_B0028	TGC	AGC	C	S
+Contig_3	22467	Synonymous mutation	Conjugal transfer protein 	PSPPH_B0028	GAT	GAT	D	D
+Contig_3	22665	Synonymous mutation	Conjugal transfer protein 	PSPPH_B0028	GCG	GCG	A	A
+Contig_3	22761	Non-Synonymous mutation	Conjugal transfer protein 	PSPPH_B0028	TTT	ATT	F	I
+Contig_3	23157	Non-Synonymous mutation	Conjugal transfer protein 	PSPPH_B0028	TTT	CTT	F	L
+Contig_3	23472	Non-Synonymous mutation	Conjugal transfer protein 	PSPPH_B0028	CTT	GTT	L	V
+Contig_3	23658	Synonymous mutation	Conjugal transfer protein 	PSPPH_B0028	CAA	CAA	Q	Q
+Contig_3	23682	Non-Synonymous mutation	Conjugal transfer protein 	PSPPH_B0028	AGG	TGG	R	W
+Contig_3	23790	Non-Synonymous mutation	Conjugal transfer protein 	PSPPH_B0028	TTT	ATT	F	I
+Contig_3	23806	Synonymous mutation	Conjugal transfer protein 	PSPPH_B0028	TGC	TGC	C	C
+Contig_3	23883	Non-Synonymous mutation	Conjugal transfer protein 	PSPPH_B0028	GGG	AGG	G	R
+Contig_3	24012	Synonymous mutation	Conjugal transfer protein 	PSPPH_B0028	GAA	GAA	E	E
+Contig_3	24134	Non-Synonymous mutation	Conjugal transfer protein 	PSPPH_B0029	TGG	CGG	W	R
+Contig_3	24375	Synonymous mutation	Conjugal transfer protein 	PSPPH_B0029	TGA	TGA	*	*
+Contig_3	24632	Non-Synonymous mutation	Conjugal transfer protein 	PSPPH_B0029	GTA	TTA	V	L
+Contig_3	25080	Synonymous mutation	Uncharacterized protein 	PSPPH_B0030	GTG	GTG	V	V
+Contig_3	25121	Synonymous mutation	Conjugal transfer protein 	PSPPH_B0031	TGC	TGC	C	C
+Contig_3	25141	Synonymous mutation	Conjugal transfer protein 	PSPPH_B0031	TGG	TGG	W	W
+Contig_3	25292	Synonymous mutation	Conjugal transfer protein 	PSPPH_B0031	AGA	CGA	R	R
+Contig_3	25310	Non-Synonymous mutation	Conjugal transfer protein 	PSPPH_B0031	GAT	AAT	D	N
+Contig_3	25454	Non-Synonymous mutation	Conjugal transfer protein 	PSPPH_B0031	GCT	ACT	A	T
+Contig_3	25577	Non-Synonymous mutation	Conjugal transfer protein 	PSPPH_B0031	GCA	TCA	A	S
+Contig_3	25610	Non-Synonymous mutation	Conjugal transfer protein 	PSPPH_B0031	AAA	GAA	K	E
+Contig_3	25682	Synonymous mutation	Conjugal transfer protein 	PSPPH_B0031	AAA	AAA	K	K
+Contig_3	25727	Non-Synonymous mutation	Conjugal transfer protein 	PSPPH_B0031	GAC	TAC	D	Y
+Contig_3	25727	Non-Synonymous mutation	Conjugal transfer protein 	PSPPH_B0031	GAC	AAC	D	N
+Contig_3	25827	Synonymous mutation	Conjugal transfer protein 	PSPPH_B0031	CCA	CCA	P	P
+Contig_3	25874	Non-Synonymous mutation	Conjugal transfer protein 	PSPPH_B0031	TGC	CGC	C	R
+Contig_3	26184	Synonymous mutation	Conjugal transfer protein 	PSPPH_B0032	TGG	TGG	W	W
+Contig_3	26208	Synonymous mutation	Conjugal transfer protein 	PSPPH_B0032	GCG	GCG	A	A
+Contig_3	26226	Non-Synonymous mutation	Conjugal transfer protein 	PSPPH_B0032	GCA	CCA	A	P
+Contig_3	26341	Synonymous mutation	Conjugal transfer protein 	PSPPH_B0032	AGC	AGC	S	S
+Contig_3	26385	Non-Synonymous mutation	Conjugal transfer protein 	PSPPH_B0032	AAG	CAG	K	Q
+Contig_3	26416	Intergenic	-	-	-	-	-	-
+Contig_3	26515	Non-Synonymous mutation	Conjugal transfer protein 	PSPPH_B0033	ACT	GCT	T	A
+Contig_3	26540	Synonymous mutation	Conjugal transfer protein 	PSPPH_B0033	TGT	TGT	C	C
+Contig_3	26659	Non-Synonymous mutation	Conjugal transfer protein 	PSPPH_B0033	CTT	ATT	L	I
+Contig_3	26730	Synonymous mutation	Conjugal transfer protein 	PSPPH_B0033	AGC	AGC	S	S
+Contig_3	2696	Non-Synonymous mutation	RulB protein 	PSPPH_B0004	TGC	CGC	C	R
+Contig_3	27001	Synonymous mutation	Conjugal transfer protein 	PSPPH_B0033	CGA	CGA	R	R
+Contig_3	27109	Non-Synonymous mutation	Conjugal transfer protein 	PSPPH_B0033	GGG	TGG	G	W
+Contig_3	27160	Non-Synonymous mutation	Conjugal transfer protein 	PSPPH_B0033	TGC	AGC	C	S
+Contig_3	27305	Synonymous mutation	Conjugal transfer protein 	PSPPH_B0034	GCA	GCA	A	A
+Contig_3	27344	Synonymous mutation	Conjugal transfer protein 	PSPPH_B0034	GCC	GCC	A	A
+Contig_3	2738	Non-Synonymous mutation	RulB protein 	PSPPH_B0004	ACT	GCT	T	A
+Contig_3	27437	Non-Synonymous mutation	Conjugal transfer protein 	PSPPH_B0034	GGC	CGC	G	R
+Contig_3	27636	Synonymous mutation	Conjugal transfer protein 	PSPPH_B0034	ACG	ACG	T	T
+Contig_3	27758	Non-Synonymous mutation	Conjugal transfer protein 	PSPPH_B0034	TGC	GGC	C	G
+Contig_3	27893	Non-Synonymous mutation	Conjugal transfer protein 	PSPPH_B0034	CCT	TCT	P	S
+Contig_3	28245	Non-Synonymous mutation	Conjugal transfer protein 	PSPPH_B0035	ACA	CCA	T	P
+Contig_3	28305	Non-Synonymous mutation	Conjugal transfer protein 	PSPPH_B0035	TGG	AGG	W	R
+Contig_3	28348	Synonymous mutation	Conjugal transfer protein 	PSPPH_B0035	CAC	CAC	H	H
+Contig_3	28504	Synonymous mutation	Conjugal transfer protein 	PSPPH_B0035	CCA	CCA	P	P
+Contig_3	28552	Synonymous mutation	Conjugal transfer protein 	PSPPH_B0035	TGT	TGT	C	C
+Contig_3	28656	Non-Synonymous mutation	Conjugal transfer protein 	PSPPH_B0035	TGT	AGT	C	S
+Contig_3	28676	Synonymous mutation	Conjugal transfer protein 	PSPPH_B0035	GGT	GGT	G	G
+Contig_3	28818	Non-Synonymous mutation	Conjugal transfer protein 	PSPPH_B0035	GTT	CTT	V	L
+Contig_3	28851	Non-Synonymous mutation	Conjugal transfer protein 	PSPPH_B0035	GGT	CGT	G	R
+Contig_3	29025	Synonymous mutation	Conjugal transfer protein 	PSPPH_B0035	TTT	TTT	F	F
+Contig_3	2918	Non-Synonymous mutation	RulB protein 	PSPPH_B0004	GCA	CCA	A	P
+Contig_3	29382	Non-Synonymous mutation	Conjugal transfer protein 	PSPPH_B0035	TCT	ACT	S	T
+Contig_3	29547	Non-Synonymous mutation	Conjugal transfer protein 	PSPPH_B0036	GTT	CTT	V	L
+Contig_3	29664	Non-Synonymous mutation	Conjugal transfer protein 	PSPPH_B0036	TGC	AGC	C	S
+Contig_3	29724	Non-Synonymous mutation	Conjugal transfer protein 	PSPPH_B0036	ACA	GCA	T	A
+Contig_3	29748	Non-Synonymous mutation	Conjugal transfer protein 	PSPPH_B0036	GCG	CCG	A	P
+Contig_3	29883	Synonymous mutation	Conjugal transfer protein 	PSPPH_B0036	TCA	TCA	S	S
+Contig_3	29964	Synonymous mutation	Conjugal transfer protein 	PSPPH_B0036	CCA	CCA	P	P
+Contig_3	29995	Synonymous mutation	Conjugal transfer protein 	PSPPH_B0036	CCT	CCT	P	P
+Contig_3	30057	Non-Synonymous mutation	Conjugal transfer protein 	PSPPH_B0036	CCC	ACC	P	T
+Contig_3	30111	Non-Synonymous mutation	Conjugal transfer protein 	PSPPH_B0036	AAG	GAG	K	E
+Contig_3	3011	Non-Synonymous mutation	RulB protein 	PSPPH_B0004	CCA	ACA	P	T
+Contig_3	30510	Non-Synonymous mutation	Uncharacterized protein 	PSPPH_B0037	GCA	ACA	A	T
+Contig_3	30594	Synonymous mutation	Uncharacterized protein 	PSPPH_B0037	TGC	TGC	C	C
+Contig_3	30687	Non-Synonymous mutation	Uncharacterized protein 	PSPPH_B0037	CCC	TCC	P	S
+Contig_3	30711	Non-Synonymous mutation	Uncharacterized protein 	PSPPH_B0037	CCG	ACG	P	T
+Contig_3	30770	Synonymous mutation	Uncharacterized protein 	PSPPH_B0037	CGA	CGA	R	R
+Contig_3	31032	Synonymous mutation	Uncharacterized protein 	PSPPH_B0038	TCT	TCT	S	S
+Contig_3	31277	Non-Synonymous mutation	Uncharacterized protein 	PSPPH_B0039	CCA	ACA	P	T
+Contig_3	3164	Synonymous mutation	RulB protein 	PSPPH_B0004	GGA	GGA	G	G
+Contig_3	3185	Non-Synonymous mutation	RulB protein 	PSPPH_B0004	CCA	ACA	P	T
+Contig_3	32254	Synonymous mutation	Uncharacterized protein 	PSPPH_B0039	ACG	ACG	T	T
+Contig_3	3247	Synonymous mutation	RulB protein 	PSPPH_B0004	GCC	GCC	A	A
+Contig_3	32649	Synonymous mutation	Uncharacterized protein 	PSPPH_B0039	TGC	TGC	C	C
+Contig_3	32678	Non-Synonymous mutation	Uncharacterized protein 	PSPPH_B0039	CAT	AAT	H	N
+Contig_3	32732	Non-Synonymous mutation	Uncharacterized protein 	PSPPH_B0039	ATC	TTC	I	F
+Contig_3	32850	Synonymous mutation	Uncharacterized protein 	PSPPH_B0039	CGC	CGC	R	R
+Contig_3	33217	Synonymous mutation	Uncharacterized protein 	PSPPH_B0039	TAT	TAT	Y	Y
+Contig_3	33234	Synonymous mutation	Uncharacterized protein 	PSPPH_B0039	AGT	AGT	S	S
+Contig_3	33566	Intergenic	-	-	-	-	-	-
+Contig_3	33611	Non-Synonymous mutation	Uncharacterized protein 	PSPPH_B0040	GAG	AAG	E	K
+Contig_3	33746	Synonymous mutation	Uncharacterized protein 	PSPPH_B0040	GGG	GGG	G	G
+Contig_3	33860	Synonymous mutation	Uncharacterized protein 	PSPPH_B0040	AGG	AGG	R	R
+Contig_3	33877	Non-Synonymous mutation	Conjugal transfer protein 	PSPPH_B0041	CGA	TGA	R	*
+Contig_3	33991	Non-Synonymous mutation	Conjugal transfer protein 	PSPPH_B0041	GCC	TCC	A	S
+Contig_3	34009	Synonymous mutation	Conjugal transfer protein 	PSPPH_B0041	TGG	TGG	W	W
+Contig_3	34150	Non-Synonymous mutation	Conjugal transfer protein 	PSPPH_B0041	AAA	GAA	K	E
+Contig_3	34219	Non-Synonymous mutation	Conjugal transfer protein 	PSPPH_B0041	GGT	AGT	G	S
+Contig_3	34282	Non-Synonymous mutation	Conjugal transfer protein 	PSPPH_B0041	TGT	GGT	C	G
+Contig_3	34306	Non-Synonymous mutation	Conjugal transfer protein 	PSPPH_B0041	CCT	ACT	P	T
+Contig_3	34345	Synonymous mutation	Conjugal transfer protein 	PSPPH_B0041	GCA	GCA	A	A
+Contig_3	34477	Synonymous mutation	Conjugal transfer protein 	PSPPH_B0041	GAT	GAT	D	D
+Contig_3	35078	Synonymous mutation	Conjugal transfer protein 	PSPPH_B0041	CGG	CGG	R	R
+Contig_3	35140	Non-Synonymous mutation	Conjugal transfer protein 	PSPPH_B0041	GGG	TGG	G	W
+Contig_3	35429	Synonymous mutation	Conjugal transfer protein 	PSPPH_B0041	GGT	GGT	G	G
+Contig_3	35656	Non-Synonymous mutation	Killer protein, putative 	PSPPH_B0042	TCT	CCT	S	P
+Contig_3	356	Synonymous mutation	Replicase family family 	PSPPH_B0002	CCG	CCG	P	P
+Contig_3	35767	Non-Synonymous mutation	Killer protein, putative 	PSPPH_B0042	ACA	TCA	T	S
+Contig_3	35946	Intergenic	-	-	-	-	-	-
+Contig_3	36010	Synonymous mutation	DNA topoisomerase III 	PSPPH_B0043	GGG	GGG	G	G
+Contig_3	36084	Synonymous mutation	DNA topoisomerase III 	PSPPH_B0043	GCG	GCG	A	A
+Contig_3	36229	Non-Synonymous mutation	DNA topoisomerase III 	PSPPH_B0043	CCG	ACG	P	T
+Contig_3	36250	Non-Synonymous mutation	DNA topoisomerase III 	PSPPH_B0043	CGT	AGT	R	S
+Contig_3	36337	Non-Synonymous mutation	DNA topoisomerase III 	PSPPH_B0043	CGA	GGA	R	G
+Contig_3	36377	Synonymous mutation	DNA topoisomerase III 	PSPPH_B0043	GCG	GCG	A	A
+Contig_3	36556	Non-Synonymous mutation	DNA topoisomerase III 	PSPPH_B0043	TCA	GCA	S	A
+Contig_3	36659	Synonymous mutation	DNA topoisomerase III 	PSPPH_B0043	TAG	TAG	*	*
+Contig_3	36784	Non-Synonymous mutation	DNA topoisomerase III 	PSPPH_B0043	CCT	GCT	P	A
+Contig_3	36936	Synonymous mutation	DNA topoisomerase III 	PSPPH_B0043	CAT	CAT	H	H
+Contig_3	37036	Non-Synonymous mutation	DNA topoisomerase III 	PSPPH_B0043	CCG	ACG	P	T
+Contig_3	37126	Synonymous mutation	DNA topoisomerase III 	PSPPH_B0043	CGG	CGG	R	R
+Contig_3	37156	Synonymous mutation	DNA topoisomerase III 	PSPPH_B0043	AGG	AGG	R	R
+Contig_3	37186	Non-Synonymous mutation	DNA topoisomerase III 	PSPPH_B0043	CCT	ACT	P	T
+Contig_3	37353	Synonymous mutation	DNA topoisomerase III 	PSPPH_B0043	CGT	CGT	R	R
+Contig_3	37378	Non-Synonymous mutation	DNA topoisomerase III 	PSPPH_B0043	TCT	CCT	S	P
+Contig_3	37729	Non-Synonymous mutation	DNA topoisomerase III 	PSPPH_B0043	TCA	GCA	S	A
+Contig_3	37770	Synonymous mutation	DNA topoisomerase III 	PSPPH_B0043	AGA	AGA	R	R
+Contig_3	37794	Synonymous mutation	DNA topoisomerase III 	PSPPH_B0043	CTT	CTT	L	L
+Contig_3	37876	Non-Synonymous mutation	DNA topoisomerase III 	PSPPH_B0043	TAC	CAC	Y	H
+Contig_3	38287	Synonymous mutation	Uncharacterized protein 	PSPPH_B0044	CCA	CCA	P	P
+Contig_3	38375	Synonymous mutation	Uncharacterized protein 	PSPPH_B0044	TCG	TCG	S	S
+Contig_3	38394	Non-Synonymous mutation	Uncharacterized protein 	PSPPH_B0044	AAT	GAT	N	D
+Contig_3	38517	Synonymous mutation	Single-stranded DNA-binding protein 	PSPPH_B0045	CCG	CCG	P	P
+Contig_3	38534	Non-Synonymous mutation	Single-stranded DNA-binding protein 	PSPPH_B0045	GTG	CTG	V	L
+Contig_3	38597	Synonymous mutation	Single-stranded DNA-binding protein 	PSPPH_B0045	GCG	GCG	A	A
+Contig_3	38642	Non-Synonymous mutation	Single-stranded DNA-binding protein 	PSPPH_B0045	CGC	GGC	R	G
+Contig_3	38661	Synonymous mutation	Single-stranded DNA-binding protein 	PSPPH_B0045	AGT	AGT	S	S
+Contig_3	38836	Synonymous mutation	Single-stranded DNA-binding protein 	PSPPH_B0045	CAA	CAA	Q	Q
+Contig_3	38864	Non-Synonymous mutation	Single-stranded DNA-binding protein 	PSPPH_B0045	TCT	GCT	S	A
+Contig_3	39039	Intergenic	-	-	-	-	-	-
+Contig_3	39061	Intergenic	-	-	-	-	-	-
+Contig_3	39138	Intergenic	-	-	-	-	-	-
+Contig_3	43035	Synonymous mutation	Relaxase, putative 	PSPPH_B0050	GAC	GAC	D	D
+Contig_3	43126	Synonymous mutation	Relaxase, putative 	PSPPH_B0050	CCA	CCA	P	P
+Contig_3	43192	Synonymous mutation	Relaxase, putative 	PSPPH_B0050	GTG	GTG	V	V
+Contig_3	43292	Synonymous mutation	Relaxase, putative 	PSPPH_B0050	CAA	CAA	Q	Q
+Contig_3	43316	Non-Synonymous mutation	Relaxase, putative 	PSPPH_B0050	TGT	GGT	C	G
+Contig_3	43347	Synonymous mutation	Relaxase, putative 	PSPPH_B0050	CCT	CCT	P	P
+Contig_3	43456	Synonymous mutation	Relaxase, putative 	PSPPH_B0050	GCA	GCA	A	A
+Contig_3	43517	Non-Synonymous mutation	Relaxase, putative 	PSPPH_B0050	CAT	GAT	H	D
+Contig_3	43774	Synonymous mutation	Relaxase, putative 	PSPPH_B0050	CGG	CGG	R	R
+Contig_3	43826	Non-Synonymous mutation	Relaxase, putative 	PSPPH_B0050	GCT	CCT	A	P
+Contig_3	43881	Synonymous mutation	Relaxase, putative 	PSPPH_B0050	CGC	CGC	R	R
+Contig_3	43961	Synonymous mutation	Relaxase, putative 	PSPPH_B0050	GGC	GGC	G	G
+Contig_3	44021	Non-Synonymous mutation	Relaxase, putative 	PSPPH_B0050	ACG	TCG	T	S
+Contig_3	44216	Non-Synonymous mutation	Relaxase, putative 	PSPPH_B0050	TTC	GTC	F	V
+Contig_3	44240	Non-Synonymous mutation	Relaxase, putative 	PSPPH_B0050	GTC	ATC	V	I
+Contig_3	44408	Non-Synonymous mutation	Relaxase, putative 	PSPPH_B0050	GTC	TTC	V	F
+Contig_3	44456	Non-Synonymous mutation	Relaxase, putative 	PSPPH_B0050	GGC	AGC	G	S
+Contig_3	44568	Synonymous mutation	Relaxase, putative 	PSPPH_B0050	GGT	GGT	G	G
+Contig_3	44708	Non-Synonymous mutation	Relaxase, putative 	PSPPH_B0050	GTG	CTG	V	L
+Contig_3	44772	Synonymous mutation	Relaxase, putative 	PSPPH_B0050	TTA	TTA	L	L
+Contig_3	44795	Non-Synonymous mutation	Relaxase, putative 	PSPPH_B0050	CCT	TCT	P	S
+Contig_3	44813	Non-Synonymous mutation	Relaxase, putative 	PSPPH_B0050	TGA	CGA	*	R
+Contig_3	44836	Synonymous mutation	Relaxase, putative 	PSPPH_B0050	TGG	TGG	W	W
+Contig_3	44866	Synonymous mutation	Relaxase, putative 	PSPPH_B0050	CGC	CGC	R	R
+Contig_3	44894	Synonymous mutation	Relaxase, putative 	PSPPH_B0050	CAT	CAT	H	H
+Contig_3	44942	Synonymous mutation	Relaxase, putative 	PSPPH_B0050	CTA	TTA	L	L
+Contig_3	45038	Non-Synonymous mutation	Relaxase, putative 	PSPPH_B0050	CGC	GGC	R	G
+Contig_3	45089	Non-Synonymous mutation	Relaxase, putative 	PSPPH_B0050	CAT	TAT	H	Y
+Contig_3	45180	Synonymous mutation	Relaxase, putative 	PSPPH_B0050	GGT	GGT	G	G
+Contig_3	45275	Non-Synonymous mutation	Relaxase, putative 	PSPPH_B0050	CTA	GTA	L	V
+Contig_3	45327	Synonymous mutation	Relaxase, putative 	PSPPH_B0050	CTT	CTT	L	L
+Contig_3	45419	Non-Synonymous mutation	Relaxase, putative 	PSPPH_B0050	TGA	AGA	*	R
+Contig_3	456	Non-Synonymous mutation	Replicase family family 	PSPPH_B0002	AAC	CAC	N	H
+Contig_3	45828	Non-Synonymous mutation	Transcriptional regulator, GntR family 	PSPPH_B0051	CAT	GAT	H	D
+Contig_3	45912	Non-Synonymous mutation	Transcriptional regulator, GntR family 	PSPPH_B0051	TCT	GCT	S	A
+Contig_3	483	Non-Synonymous mutation	Replicase family family 	PSPPH_B0002	CAG	AAG	Q	K
+Contig_3	516	Non-Synonymous mutation	Replicase family family 	PSPPH_B0002	TGG	AGG	W	R
+Contig_3	537	Non-Synonymous mutation	Replicase family family 	PSPPH_B0002	TGA	GGA	*	G
+Contig_3	633	Synonymous mutation	Replicase family family 	PSPPH_B0002	GCC	GCC	A	A
+Contig_3	658	Synonymous mutation	Replicase family family 	PSPPH_B0002	CTG	CTG	L	L
+Contig_3	678	Synonymous mutation	Replicase family family 	PSPPH_B0002	GCT	GCT	A	A
+Contig_3	695	Synonymous mutation	Replicase family family 	PSPPH_B0002	CCG	CCG	P	P
+Contig_3	738	Synonymous mutation	Replicase family family 	PSPPH_B0002	GCT	GCT	A	A
+Contig_3	7502	Non-Synonymous mutation	Uncharacterized protein 	PSPPH_B0011	CGG	GGG	R	G
+Contig_3	7571	Non-Synonymous mutation	Uncharacterized protein 	PSPPH_B0011	GGC	AGC	G	S
+Contig_3	774	Non-Synonymous mutation	Replicase family family 	PSPPH_B0002	TGT	AGT	C	S
+Contig_3	836	Synonymous mutation	Replicase family family 	PSPPH_B0002	GGT	GGT	G	G
+Contig_3	879	Synonymous mutation	Replicase family family 	PSPPH_B0002	AGG	CGG	R	R
